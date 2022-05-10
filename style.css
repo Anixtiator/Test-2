@@ -1,0 +1,71 @@
+body{
+    background-image: url(images/A53bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+   
+
+
+.card-text{
+    color: blue;
+    
+}
+.navi-bar{
+    color: aliceblue;
+
+}
+.img{
+    padding: 100px;
+}
+.row-fluid-note{
+    background-color: rgb(255, 255, 255);
+    font-size: small;
+
+}
+.footer-cont{
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    display: block;
+    align-items: center;
+
+}
+.footer-ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+       
+}
+.footer-img{
+    display: block;
+    width: 35px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.card-img-top{
+    margin: auto;
+    height: 180px;
+    width: 205px;
+}
+.btn-primary{
+
+}
+.card-title{
+    font-size: medium;
+    font-weight: bold;
+}
+.card-text{
+    font-size: medium;
+}
+.main-container{
+    display: flex;
+}
+.side-bar{
+    background-color: aqua;
+    width: 250px;
+    margin-right: 8px;
+    
+}
